@@ -26,7 +26,7 @@ global.ownernomer = "94789864930" //ur owner number2
 global.ownername = "𝕸𝖗.𝕽𝖎𝖛𝖎𝖘𝖍𝖆𝖓" //ur owner name
 global.ytname = "YT: Voiceland Karaoke" //ur yt chanel name
 global.socialm = "WhatsApp: 𝕸𝖗.𝕽𝖎𝖛𝖎𝖘𝖍𝖆𝖓" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.location = "XW6F+P73, Road, Peliyagoda" //ur location
 
 //new
 global.botname = "Rivishan-MD"
